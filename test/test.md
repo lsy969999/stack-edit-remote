@@ -7,7 +7,9 @@ erDiagram
 	CUSTOMER ||--o{ ORDER : places ORDER ||--|{ PRODUCT : contains
 ```
 sssss
+![image](./image.jpg)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4NjYwMjI0LC0xMTM2MzM2NTU2LDQ3Mj
-U5ODkzMF19
+eyJoaXN0b3J5IjpbMjAyMzUyMzk2LDUxODY2MDIyNCwtMTEzNj
+MzNjU1Niw0NzI1OTg5MzBdfQ==
 -->
