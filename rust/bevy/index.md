@@ -1,7 +1,6 @@
+# bevy
+러스트 언어 로만든 ECS 기반 데이터 드리븐 게임엔진
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTc0NDc0NDExMl19
 -->
