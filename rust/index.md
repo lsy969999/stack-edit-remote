@@ -1,4 +1,4 @@
-rust 기반 생태계 조사
+# rust 기반 생태계 조사
 
 ### 비동기 런타임
 - tokio
@@ -6,7 +6,14 @@ rust 기반 생태계 조사
 
 ### 웹
 - axum
-- a
+- actix
+
+### game
+- bevy
+
+
+# wasm
+wasm-bindgen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTM3Mjc3XX0=
+eyJoaXN0b3J5IjpbLTExODA2MzczNjFdfQ==
 -->
