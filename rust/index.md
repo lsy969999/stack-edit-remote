@@ -1,7 +1,7 @@
 # rust 기반 생태계 조사
 
 ### 비동기 런타임
-- tokio [tokio](command.md)
+- tokio [tokio](tokio/index)
 - futures
 
 ### 웹
@@ -15,5 +15,5 @@
 # wasm
 wasm-bindgen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY3OTk1OTJdfQ==
+eyJoaXN0b3J5IjpbLTgyMjk4NDc5N119
 -->
